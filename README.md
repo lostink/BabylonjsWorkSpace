@@ -20,9 +20,15 @@ Featue 0 : Spot Light Texture Projection
 
 This feature enables user to add texture to spot light to make it project desired texture.
 
+### Issue link
+
+https://github.com/BabylonJS/Babylon.js/issues/2771
+
 ### Demo
 
-![](milestone1.gif)
+![](Finished.gif)
+
+Link: https://www.babylonjs-playground.com/#CQNGRK
 
 ### How to use
 
