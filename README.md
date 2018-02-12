@@ -33,3 +33,7 @@ Link: https://www.babylonjs-playground.com/#CQNGRK
 ### How to use
 
 Refer to official documents: http://doc.babylonjs.com/babylon101/lights#projection-texture
+
+### Credit
+
+Thanks for the help from the original babylonjs team members, David (https://github.com/deltakosh) and Sebastian (https://github.com/sebavan) for the support on code details and code standard explanation!
